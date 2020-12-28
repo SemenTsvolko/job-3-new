@@ -1,0 +1,13 @@
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\bin\Debug\netcoreapp3.1\job 3 repley.exe
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\bin\Debug\netcoreapp3.1\job 3 repley.deps.json
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\bin\Debug\netcoreapp3.1\job 3 repley.runtimeconfig.json
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\bin\Debug\netcoreapp3.1\job 3 repley.runtimeconfig.dev.json
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\bin\Debug\netcoreapp3.1\job 3 repley.dll
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\bin\Debug\netcoreapp3.1\job 3 repley.pdb
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\obj\Debug\netcoreapp3.1\job 3 repley.csprojAssemblyReference.cache
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\obj\Debug\netcoreapp3.1\job 3 repley.AssemblyInfoInputs.cache
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\obj\Debug\netcoreapp3.1\job 3 repley.AssemblyInfo.cs
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\obj\Debug\netcoreapp3.1\job 3 repley.csproj.CoreCompileInputs.cache
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\obj\Debug\netcoreapp3.1\job 3 repley.dll
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\obj\Debug\netcoreapp3.1\job 3 repley.pdb
+C:\Users\semac\source\repos\job 3 repley\job 3 repley\obj\Debug\netcoreapp3.1\job 3 repley.genruntimeconfig.cache
